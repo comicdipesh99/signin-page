@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+    overflow-x: hidden;
+}
+
+.heading {
+    font-weight: 800;
+}
+
+.hey {
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+.row {
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+}
+
+.lsa {
+    text-decoration: none;
+}
+
+.blu {
+    color: #0000ff;
+}
+
+.bol {
+    font-weight: 800;
+}
+
+.btn {
+    border-radius: 12px;
+    width: 50%;
+}
+
+.form-control {
+    background-color: #ece8ef;
+    border-radius: 12px;
+}
+
+.mar {
+    width: 80%;
+}
+
+.ch {
+    opacity: 60%;
+    font-size: 13px;
+}
+
+.img {
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    width: 50%;
+    height: 80%;
+}
+
+.login_image {
+    width: 100%;
+    height: 100vh;
+    max-height: 100vh;
+    object-position: bottom;
+    object-fit: fill;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.input_label {
+    color: #cfcfcf;
+    font-size: 12px;
+}
+
+.sing_btn {
+    box-shadow: 5px 6px 8px 7px #e3e3e3;
+}
+
+.font {
+    font-size: 12px;
+}
+
+.ForHR {
+    width: 100%;
+    border: 1.5px solid black;
+}
+
+.social_icon {
+    background: transparent;
+    border-radius: 8px;
+    border: 1px solid rgb(199, 199, 199);
+}
+
+.font_icon {
+    font-size: 25px;
+    color: rgb(120, 120, 120);
+}
+
+.centered {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 12px;
+}
+
+.text {
+    color: #ffffff;
+}
+
+.bb{
+    text-decoration: none;
+    color: #ffffff;
+}
